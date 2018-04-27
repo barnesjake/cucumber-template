@@ -5,4 +5,4 @@
 #############################################
 
 driverPath=/usr/local/bin/driverLocation
-sbt -Denvironment=local -Dbrowser=browserName -Dwebdriver.chrome.driver=${driverPath} clean 'test-only runners.runner'
+sbt -Denvironment=local -Dbrowser=browsgit staerName -Dwebdriver.chrome.driver=${driverPath} clean 'test-only runners.runner'
