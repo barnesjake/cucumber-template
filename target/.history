@@ -1,0 +1,6 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /tmp/sbt-structure.xml
+all {file:/home/user/Desktop/cucumberReposPure/cucumber_test_project/}cucumber_test_project/products {file:/home/user/Desktop/cucumberReposPure/cucumber_test_project/}cucumber_test_project/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /tmp/sbt-structure.xml
+all {file:/home/user/Desktop/cucumberReposPure/cucumber_test_project/}cucumber_test_project/products {file:/home/user/Desktop/cucumberReposPure/cucumber_test_project/}cucumber_test_project/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /tmp/sbt-structure.xml
+all {file:/home/user/Desktop/cucumberReposPure/cucumber_test_project/}cucumber_test_project/products {file:/home/user/Desktop/cucumberReposPure/cucumber_test_project/}cucumber_test_project/test:products
