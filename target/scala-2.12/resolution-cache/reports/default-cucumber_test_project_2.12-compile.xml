@@ -7,7 +7,7 @@
 		revision="0.0.1"
 		conf="compile"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20180427154157"/>
+		date="20180430121323"/>
 	<dependencies>
 		<module organisation="net.lightbody.bmp" name="browsermob-core">
 			<revision name="2.1.5" status="release" pubdate="20170911064508" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="23">

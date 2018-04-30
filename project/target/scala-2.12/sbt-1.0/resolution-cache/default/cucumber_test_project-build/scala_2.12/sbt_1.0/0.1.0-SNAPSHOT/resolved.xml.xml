@@ -4,7 +4,7 @@
 		module="cucumber_test_project-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20180427145645"
+		publication="20180430121809"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>
