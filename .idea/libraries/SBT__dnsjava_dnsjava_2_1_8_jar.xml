@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="SBT: dnsjava:dnsjava:2.1.8:jar">
+  <library name="sbt: dnsjava:dnsjava:2.1.8:jar">
     <CLASSES>
       <root url="jar://$USER_HOME$/.ivy2/cache/dnsjava/dnsjava/jars/dnsjava-2.1.8.jar!/" />
     </CLASSES>
