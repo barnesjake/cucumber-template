@@ -1,6 +1,3 @@
-# cucumber-template
-A basic cucumber template to use with Scala and SBT
-
 # Practice writing your first set of automated tests!
 This repository is intended to help you write your first set of automated tests, using Scala, Selenium webdriver and Cucumber
 
@@ -23,3 +20,15 @@ Here are a few useful links that might help you out; remember google can be your
 Start by trying to understand what everything is, in particular, the pages, runners, features and step definitions.
 
 Next try filling in your own automated steps - play around, explore different available methods etc.
+
+##### Try out automating some of the payments journey
+If you want to try this one out, ask me and I'll provide the setup necessary to get you started on completing an end to end journey through one of in house developed card payment journeys.
+
+#####Try out some example sites
+[Heroku app](http://the-internet.herokuapp.com)
+
+[PHP travels site](https://phptravels.com/demo/)
+
+[Demo site](http://thedemosite.co.uk/)
+
+[The automated tester](http://book.theautomatedtester.co.uk/)
