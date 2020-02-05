@@ -24,5 +24,6 @@ project/project/
 src/main/
 src/test/java/
 src/test/scala-2.11/
+.idea/workspace.xml
 
 notes.txt
