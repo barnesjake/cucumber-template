@@ -9,6 +9,8 @@ trait BaseStep extends ScalaDsl with EN with Matchers {
 
   implicit val webDriver: WebDriver = new ChromeDriver()
 
+  After( x => webDriver.quit())
+
   def sendText(locator: String, text: String): Unit = webDriver.findElement(By.xpath(locator)).sendKeys(text)
 
 }
